@@ -2,7 +2,7 @@
 
 Öncelikle projeyi clonelayın.
 
-`https://github.com/sinanbarutcu/ilkwebsitesi.git`
+`https://github.com/sinanbarutcu/ilkwebsayfasi.git`
 
 # Usage
 
